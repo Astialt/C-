@@ -1,0 +1,14 @@
+D:\лабы\ПРАКТИКА С#\Головач_1\Z9\bin\Debug\net8.0\Z9.exe
+D:\лабы\ПРАКТИКА С#\Головач_1\Z9\bin\Debug\net8.0\Z9.deps.json
+D:\лабы\ПРАКТИКА С#\Головач_1\Z9\bin\Debug\net8.0\Z9.runtimeconfig.json
+D:\лабы\ПРАКТИКА С#\Головач_1\Z9\bin\Debug\net8.0\Z9.dll
+D:\лабы\ПРАКТИКА С#\Головач_1\Z9\bin\Debug\net8.0\Z9.pdb
+D:\лабы\ПРАКТИКА С#\Головач_1\Z9\obj\Debug\net8.0\Z9.GeneratedMSBuildEditorConfig.editorconfig
+D:\лабы\ПРАКТИКА С#\Головач_1\Z9\obj\Debug\net8.0\Z9.AssemblyInfoInputs.cache
+D:\лабы\ПРАКТИКА С#\Головач_1\Z9\obj\Debug\net8.0\Z9.AssemblyInfo.cs
+D:\лабы\ПРАКТИКА С#\Головач_1\Z9\obj\Debug\net8.0\Z9.csproj.CoreCompileInputs.cache
+D:\лабы\ПРАКТИКА С#\Головач_1\Z9\obj\Debug\net8.0\Z9.dll
+D:\лабы\ПРАКТИКА С#\Головач_1\Z9\obj\Debug\net8.0\refint\Z9.dll
+D:\лабы\ПРАКТИКА С#\Головач_1\Z9\obj\Debug\net8.0\Z9.pdb
+D:\лабы\ПРАКТИКА С#\Головач_1\Z9\obj\Debug\net8.0\Z9.genruntimeconfig.cache
+D:\лабы\ПРАКТИКА С#\Головач_1\Z9\obj\Debug\net8.0\ref\Z9.dll
