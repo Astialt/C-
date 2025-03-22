@@ -1,0 +1,14 @@
+D:\лабы\ПРАКТИКА С#\Golovach_5\Z1\bin\Debug\net8.0\Z1.exe
+D:\лабы\ПРАКТИКА С#\Golovach_5\Z1\bin\Debug\net8.0\Z1.deps.json
+D:\лабы\ПРАКТИКА С#\Golovach_5\Z1\bin\Debug\net8.0\Z1.runtimeconfig.json
+D:\лабы\ПРАКТИКА С#\Golovach_5\Z1\bin\Debug\net8.0\Z1.dll
+D:\лабы\ПРАКТИКА С#\Golovach_5\Z1\bin\Debug\net8.0\Z1.pdb
+D:\лабы\ПРАКТИКА С#\Golovach_5\Z1\obj\Debug\net8.0\Z1.GeneratedMSBuildEditorConfig.editorconfig
+D:\лабы\ПРАКТИКА С#\Golovach_5\Z1\obj\Debug\net8.0\Z1.AssemblyInfoInputs.cache
+D:\лабы\ПРАКТИКА С#\Golovach_5\Z1\obj\Debug\net8.0\Z1.AssemblyInfo.cs
+D:\лабы\ПРАКТИКА С#\Golovach_5\Z1\obj\Debug\net8.0\Z1.csproj.CoreCompileInputs.cache
+D:\лабы\ПРАКТИКА С#\Golovach_5\Z1\obj\Debug\net8.0\Z1.dll
+D:\лабы\ПРАКТИКА С#\Golovach_5\Z1\obj\Debug\net8.0\refint\Z1.dll
+D:\лабы\ПРАКТИКА С#\Golovach_5\Z1\obj\Debug\net8.0\Z1.pdb
+D:\лабы\ПРАКТИКА С#\Golovach_5\Z1\obj\Debug\net8.0\Z1.genruntimeconfig.cache
+D:\лабы\ПРАКТИКА С#\Golovach_5\Z1\obj\Debug\net8.0\ref\Z1.dll
