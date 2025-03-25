@@ -1,0 +1,4 @@
+[04.06.2025 14:05:32] Исключение: Деление на ноль невозможно.
+Стек вызовов:
+   в MathOperations.Divide(Int32 a, Int32 b)
+   в CalculationManager.PerformDivision(Int32 a, Int32 b)

@@ -1,0 +1,32 @@
+[25.03.2025 14:20:18] Исключение: Деление на ноль невозможно.
+Стек вызовов:
+   at MathOperations.Divide(Int32 a, Int32 b) in D:\лабы\ПРАКТИКА С#\Golovach_7\Z2\Z2.cs:line 17
+   at CalculationManager.PerformDivision(Int32 a, Int32 b) in D:\лабы\ПРАКТИКА С#\Golovach_7\Z2\Z2.cs:line 35
+[25.03.2025 14:21:35] Исключение: Деление на ноль невозможно.
+Стек вызовов:
+   at MathOperations.Divide(Int32 a, Int32 b) in D:\лабы\ПРАКТИКА С#\Golovach_7\Z2\Z2.cs:line 17
+   at CalculationManager.PerformDivision(Int32 a, Int32 b) in D:\лабы\ПРАКТИКА С#\Golovach_7\Z2\Z2.cs:line 35
+[25.03.2025 14:26:52] Исключение: Деление на ноль невозможно.
+Стек вызовов:
+   at MathOperations.Divide(Int32 a, Int32 b) in D:\лабы\ПРАКТИКА С#\Golovach_7\Z2\Z2.cs:line 17
+   at CalculationManager.PerformDivision(Int32 a, Int32 b) in D:\лабы\ПРАКТИКА С#\Golovach_7\Z2\Z2.cs:line 35
+[25.03.2025 14:28:29] Исключение: Деление на ноль невозможно.
+Стек вызовов:
+   at MathOperations.Divide(Int32 a, Int32 b) in D:\лабы\ПРАКТИКА С#\Golovach_7\Z2\Z2.cs:line 17
+   at CalculationManager.PerformDivision(Int32 a, Int32 b) in D:\лабы\ПРАКТИКА С#\Golovach_7\Z2\Z2.cs:line 35
+[25.03.2025 14:29:36] Исключение: Деление на ноль невозможно.
+Стек вызовов:
+   at MathOperations.Divide(Int32 a, Int32 b) in D:\лабы\ПРАКТИКА С#\Golovach_7\Z2\Z2.cs:line 17
+   at CalculationManager.PerformDivision(Int32 a, Int32 b) in D:\лабы\ПРАКТИКА С#\Golovach_7\Z2\Z2.cs:line 35
+[25.03.2025 14:30:48] Исключение: Деление на ноль невозможно.
+Стек вызовов:
+   at MathOperations.Divide(Int32 a, Int32 b) in D:\лабы\ПРАКТИКА С#\Golovach_7\Z2\Z2.cs:line 17
+   at CalculationManager.PerformDivision(Int32 a, Int32 b) in D:\лабы\ПРАКТИКА С#\Golovach_7\Z2\Z2.cs:line 35
+[25.03.2025 15:04:04] Исключение: Деление на ноль невозможно.
+Стек вызовов:
+   at MathOperations.Divide(Int32 a, Int32 b) in D:\лабы\ПРАКТИКА С#\Golovach_7\Z2\Z2.cs:line 17
+   at CalculationManager.PerformDivision(Int32 a, Int32 b) in D:\лабы\ПРАКТИКА С#\Golovach_7\Z2\Z2.cs:line 35
+[25.03.2025 15:07:01] Исключение: Деление на ноль невозможно.
+Стек вызовов:
+   at MathOperations.Divide(Int32 a, Int32 b) in D:\лабы\ПРАКТИКА С#\Golovach_7\Z2\Z2.cs:line 17
+   at CalculationManager.PerformDivision(Int32 a, Int32 b) in D:\лабы\ПРАКТИКА С#\Golovach_7\Z2\Z2.cs:line 35
