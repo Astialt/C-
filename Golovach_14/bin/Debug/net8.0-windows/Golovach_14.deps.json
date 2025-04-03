@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Golovach_14/1.0.0": {
+        "runtime": {
+          "Golovach_14.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Golovach_14/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

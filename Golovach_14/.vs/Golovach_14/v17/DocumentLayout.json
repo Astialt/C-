@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7E89C6-0FEF-4B23-8BDE-BC7E699CF2B4}|Golovach_14.csproj|d:\\\u043B\u0430\u0431\u044B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\golovach_14\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7E89C6-0FEF-4B23-8BDE-BC7E699CF2B4}|Golovach_14.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7E89C6-0FEF-4B23-8BDE-BC7E699CF2B4}|Golovach_14.csproj|d:\\\u043B\u0430\u0431\u044B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\golovach_14\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D7E89C6-0FEF-4B23-8BDE-BC7E699CF2B4}|Golovach_14.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7E89C6-0FEF-4B23-8BDE-BC7E699CF2B4}|Golovach_14.csproj|d:\\\u043B\u0430\u0431\u044B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\golovach_14\\ordercommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7E89C6-0FEF-4B23-8BDE-BC7E699CF2B4}|Golovach_14.csproj|solutionrelative:ordercommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7E89C6-0FEF-4B23-8BDE-BC7E699CF2B4}|Golovach_14.csproj|d:\\\u043B\u0430\u0431\u044B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\golovach_14\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7E89C6-0FEF-4B23-8BDE-BC7E699CF2B4}|Golovach_14.csproj|solutionrelative:window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7E89C6-0FEF-4B23-8BDE-BC7E699CF2B4}|Golovach_14.csproj|d:\\\u043B\u0430\u0431\u044B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\golovach_14\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D7E89C6-0FEF-4B23-8BDE-BC7E699CF2B4}|Golovach_14.csproj|solutionrelative:window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7E89C6-0FEF-4B23-8BDE-BC7E699CF2B4}|Golovach_14.csproj|d:\\\u043B\u0430\u0431\u044B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\golovach_14\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7E89C6-0FEF-4B23-8BDE-BC7E699CF2B4}|Golovach_14.csproj|solutionrelative:window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7E89C6-0FEF-4B23-8BDE-BC7E699CF2B4}|Golovach_14.csproj|d:\\\u043B\u0430\u0431\u044B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\golovach_14\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D7E89C6-0FEF-4B23-8BDE-BC7E699CF2B4}|Golovach_14.csproj|solutionrelative:window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7E89C6-0FEF-4B23-8BDE-BC7E699CF2B4}|Golovach_14.csproj|d:\\\u043B\u0430\u0431\u044B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\golovach_14\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7E89C6-0FEF-4B23-8BDE-BC7E699CF2B4}|Golovach_14.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderCommands.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_14\\OrderCommands.cs",
+              "RelativeDocumentMoniker": "OrderCommands.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_14\\OrderCommands.cs",
+              "RelativeToolTip": "OrderCommands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T06:26:47.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_14\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_14\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T06:02:15.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_14\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_14\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-02T06:02:17.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Window2.xaml.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_14\\Window2.xaml.cs",
+              "RelativeDocumentMoniker": "Window2.xaml.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_14\\Window2.xaml.cs",
+              "RelativeToolTip": "Window2.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvzcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T06:10:35.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_14\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "Window1.xaml.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_14\\Window1.xaml.cs",
+              "RelativeToolTip": "Window1.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvz4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T06:10:08.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Window2.xaml",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_14\\Window2.xaml",
+              "RelativeDocumentMoniker": "Window2.xaml",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_14\\Window2.xaml",
+              "RelativeToolTip": "Window2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-02T06:10:25.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_14\\Window1.xaml",
+              "RelativeDocumentMoniker": "Window1.xaml",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_14\\Window1.xaml",
+              "RelativeToolTip": "Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-02T06:09:55.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_14\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_14\\Order.cs",
+              "RelativeToolTip": "Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T06:05:02.309Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
