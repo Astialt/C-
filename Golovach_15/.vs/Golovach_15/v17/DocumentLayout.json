@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF9F102-82F0-42D3-9053-4BFF2BCBB259}|Golovach_15.csproj|d:\\\u043B\u0430\u0431\u044B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\golovach_15\\shopviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF9F102-82F0-42D3-9053-4BFF2BCBB259}|Golovach_15.csproj|solutionrelative:shopviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF9F102-82F0-42D3-9053-4BFF2BCBB259}|Golovach_15.csproj|d:\\\u043B\u0430\u0431\u044B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\golovach_15\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF9F102-82F0-42D3-9053-4BFF2BCBB259}|Golovach_15.csproj|solutionrelative:viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF9F102-82F0-42D3-9053-4BFF2BCBB259}|Golovach_15.csproj|d:\\\u043B\u0430\u0431\u044B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\golovach_15\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF9F102-82F0-42D3-9053-4BFF2BCBB259}|Golovach_15.csproj|solutionrelative:relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF9F102-82F0-42D3-9053-4BFF2BCBB259}|Golovach_15.csproj|d:\\\u043B\u0430\u0431\u044B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\golovach_15\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF9F102-82F0-42D3-9053-4BFF2BCBB259}|Golovach_15.csproj|solutionrelative:productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF9F102-82F0-42D3-9053-4BFF2BCBB259}|Golovach_15.csproj|d:\\\u043B\u0430\u0431\u044B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\golovach_15\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF9F102-82F0-42D3-9053-4BFF2BCBB259}|Golovach_15.csproj|solutionrelative:orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF9F102-82F0-42D3-9053-4BFF2BCBB259}|Golovach_15.csproj|d:\\\u043B\u0430\u0431\u044B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\golovach_15\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF9F102-82F0-42D3-9053-4BFF2BCBB259}|Golovach_15.csproj|solutionrelative:ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF9F102-82F0-42D3-9053-4BFF2BCBB259}|Golovach_15.csproj|d:\\\u043B\u0430\u0431\u044B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\golovach_15\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF9F102-82F0-42D3-9053-4BFF2BCBB259}|Golovach_15.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF9F102-82F0-42D3-9053-4BFF2BCBB259}|Golovach_15.csproj|d:\\\u043B\u0430\u0431\u044B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\golovach_15\\booltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF9F102-82F0-42D3-9053-4BFF2BCBB259}|Golovach_15.csproj|solutionrelative:booltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF9F102-82F0-42D3-9053-4BFF2BCBB259}|Golovach_15.csproj|d:\\\u043B\u0430\u0431\u044B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\golovach_15\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9EF9F102-82F0-42D3-9053-4BFF2BCBB259}|Golovach_15.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_15\\obj\\Debug\\net8.0-windows\\MainWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0-windows\\MainWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_15\\OrderService.cs",
+              "RelativeDocumentMoniker": "OrderService.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_15\\OrderService.cs",
+              "RelativeToolTip": "OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T07:43:34.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_15\\OrderModel.cs",
+              "RelativeDocumentMoniker": "OrderModel.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_15\\OrderModel.cs",
+              "RelativeToolTip": "OrderModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:09:43.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_15\\ProductModel.cs",
+              "RelativeDocumentMoniker": "ProductModel.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_15\\ProductModel.cs",
+              "RelativeToolTip": "ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:10:00.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_15\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "RelayCommand.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_15\\RelayCommand.cs",
+              "RelativeToolTip": "RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T07:43:15.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_15\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "ViewModelBase.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_15\\ViewModelBase.cs",
+              "RelativeToolTip": "ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:10:19.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShopViewModel.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_15\\ShopViewModel.cs",
+              "RelativeDocumentMoniker": "ShopViewModel.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_15\\ShopViewModel.cs",
+              "RelativeToolTip": "ShopViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:10:44.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_15\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_15\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T07:41:03.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BoolToVisibilityConverter.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_15\\BoolToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "BoolToVisibilityConverter.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_15\\BoolToVisibilityConverter.cs",
+              "RelativeToolTip": "BoolToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T07:44:15.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_15\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_15\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-03T07:41:07.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.g.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_15\\obj\\Debug\\net8.0-windows\\MainWindow.g.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0-windows\\MainWindow.g.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_15\\obj\\Debug\\net8.0-windows\\MainWindow.g.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0-windows\\MainWindow.g.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvwwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:08:10.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
