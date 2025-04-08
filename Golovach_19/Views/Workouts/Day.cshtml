@@ -1,0 +1,36 @@
+﻿@model IEnumerable<WorkoutLog.Models.Workout>
+
+@{
+    ViewBag.Title = "Тренировки за " + ViewBag.Date;
+}
+
+<h2>Тренировки за @ViewBag.Date</h2>
+
+@if (!Model.Any())
+{
+    <p>Тренировок не найдено.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Дата</th>
+                <th>Тип</th>
+                <th>Продолжительность</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var workout in Model)
+            {
+                <tr>
+                    <td>@workout.Id</td>
+                    <td>@workout.Date.ToString("yyyy-MM-dd")</td>
+                    <td>@workout.Type</td>
+                    <td>@workout.Duration</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

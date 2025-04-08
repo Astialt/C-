@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8900A615-8FA3-4E0E-A07E-96A380FC0A60}|Golovach_18.csproj|d:\\\u043B\u0430\u0431\u044B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\golovach_18\\projectviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8900A615-8FA3-4E0E-A07E-96A380FC0A60}|Golovach_18.csproj|solutionrelative:projectviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8900A615-8FA3-4E0E-A07E-96A380FC0A60}|Golovach_18.csproj|d:\\\u043B\u0430\u0431\u044B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\golovach_18\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8900A615-8FA3-4E0E-A07E-96A380FC0A60}|Golovach_18.csproj|solutionrelative:baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8900A615-8FA3-4E0E-A07E-96A380FC0A60}|Golovach_18.csproj|d:\\\u043B\u0430\u0431\u044B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\golovach_18\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8900A615-8FA3-4E0E-A07E-96A380FC0A60}|Golovach_18.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8900A615-8FA3-4E0E-A07E-96A380FC0A60}|Golovach_18.csproj|d:\\\u043B\u0430\u0431\u044B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\golovach_18\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8900A615-8FA3-4E0E-A07E-96A380FC0A60}|Golovach_18.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8900A615-8FA3-4E0E-A07E-96A380FC0A60}|Golovach_18.csproj|d:\\\u043B\u0430\u0431\u044B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\golovach_18\\shopviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8900A615-8FA3-4E0E-A07E-96A380FC0A60}|Golovach_18.csproj|solutionrelative:shopviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8900A615-8FA3-4E0E-A07E-96A380FC0A60}|Golovach_18.csproj|d:\\\u043B\u0430\u0431\u044B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\golovach_18\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8900A615-8FA3-4E0E-A07E-96A380FC0A60}|Golovach_18.csproj|solutionrelative:orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8900A615-8FA3-4E0E-A07E-96A380FC0A60}|Golovach_18.csproj|d:\\\u043B\u0430\u0431\u044B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\golovach_18\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8900A615-8FA3-4E0E-A07E-96A380FC0A60}|Golovach_18.csproj|solutionrelative:shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8900A615-8FA3-4E0E-A07E-96A380FC0A60}|Golovach_18.csproj|d:\\\u043B\u0430\u0431\u044B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\golovach_18\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8900A615-8FA3-4E0E-A07E-96A380FC0A60}|Golovach_18.csproj|solutionrelative:orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8900A615-8FA3-4E0E-A07E-96A380FC0A60}|Golovach_18.csproj|d:\\\u043B\u0430\u0431\u044B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\golovach_18\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8900A615-8FA3-4E0E-A07E-96A380FC0A60}|Golovach_18.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8900A615-8FA3-4E0E-A07E-96A380FC0A60}|Golovach_18.csproj|d:\\\u043B\u0430\u0431\u044B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\golovach_18\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8900A615-8FA3-4E0E-A07E-96A380FC0A60}|Golovach_18.csproj|solutionrelative:irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8900A615-8FA3-4E0E-A07E-96A380FC0A60}|Golovach_18.csproj|d:\\\u043B\u0430\u0431\u044B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\golovach_18\\asyncrelaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8900A615-8FA3-4E0E-A07E-96A380FC0A60}|Golovach_18.csproj|solutionrelative:asyncrelaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8900A615-8FA3-4E0E-A07E-96A380FC0A60}|Golovach_18.csproj|d:\\\u043B\u0430\u0431\u044B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\golovach_18\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8900A615-8FA3-4E0E-A07E-96A380FC0A60}|Golovach_18.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8900A615-8FA3-4E0E-A07E-96A380FC0A60}|Golovach_18.csproj|d:\\\u043B\u0430\u0431\u044B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\golovach_18\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8900A615-8FA3-4E0E-A07E-96A380FC0A60}|Golovach_18.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8900A615-8FA3-4E0E-A07E-96A380FC0A60}|Golovach_18.csproj|d:\\\u043B\u0430\u0431\u044B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\golovach_18\\migrations\\20250408142053_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8900A615-8FA3-4E0E-A07E-96A380FC0A60}|Golovach_18.csproj|solutionrelative:migrations\\20250408142053_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8900A615-8FA3-4E0E-A07E-96A380FC0A60}|Golovach_18.csproj|d:\\\u043B\u0430\u0431\u044B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\golovach_18\\shop.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{8900A615-8FA3-4E0E-A07E-96A380FC0A60}|Golovach_18.csproj|solutionrelative:shop.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_18\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "OrderRepository.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_18\\OrderRepository.cs",
+              "RelativeToolTip": "OrderRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAnwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:06:57.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShopViewModel.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_18\\ShopViewModel.cs",
+              "RelativeDocumentMoniker": "ShopViewModel.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_18\\ShopViewModel.cs",
+              "RelativeToolTip": "ShopViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:11:21.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_18\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_18\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:20:55.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_18\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "BaseViewModel.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_18\\BaseViewModel.cs",
+              "RelativeToolTip": "BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:10:39.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_18\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_18\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-08T13:20:57.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectViewModel.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_18\\ProjectViewModel.cs",
+              "RelativeDocumentMoniker": "ProjectViewModel.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_18\\ProjectViewModel.cs",
+              "RelativeToolTip": "ProjectViewModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwCsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:10:59.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_18\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_18\\Order.cs",
+              "RelativeToolTip": "Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:23:16.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShopContext.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_18\\ShopContext.cs",
+              "RelativeDocumentMoniker": "ShopContext.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_18\\ShopContext.cs",
+              "RelativeToolTip": "ShopContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA3wBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:54:18.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_18\\OrderItem.cs",
+              "RelativeDocumentMoniker": "OrderItem.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_18\\OrderItem.cs",
+              "RelativeToolTip": "OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:53:50.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_18\\IRepository.cs",
+              "RelativeDocumentMoniker": "IRepository.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_18\\IRepository.cs",
+              "RelativeToolTip": "IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:06:02.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AsyncRelayCommand.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_18\\AsyncRelayCommand.cs",
+              "RelativeDocumentMoniker": "AsyncRelayCommand.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_18\\AsyncRelayCommand.cs",
+              "RelativeToolTip": "AsyncRelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:10:22.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_18\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_18\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:29:01.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_18\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_18\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:00:30.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250408142053_InitialCreate.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_18\\Migrations\\20250408142053_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250408142053_InitialCreate.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_18\\Migrations\\20250408142053_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250408142053_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:20:53.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "shop.db",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_18\\shop.db",
+              "RelativeDocumentMoniker": "shop.db",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u044B\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\Golovach_18\\shop.db",
+              "RelativeToolTip": "shop.db",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMuSURBVEhLtVVrS1RBGH4sV5S8rWUiUd6DkC3TXAhR11uZ9CHJrC0KCoKk\u002Bg1Ff6BS64MaWXkrN6PCRLQ2KQMltdQSNV1XrCBLN0vd\u002BzQz55zVXVc8ffCBZ9457\u002B2ZmXPDuoIQ4iNOOWpra6mLMP8qZDVO0Qo\u002BhUJhslgsWSUlFz6IbVZHTU0NcTgcbrRLtEu0c\u002Bt0OkldXR0xGo2kqurObPmt20liGzdsEC0HWxEDLYaD0cHocJEKuchyGJRKJXLzckP9/BT60rLyFSJeBfgoTGUhjIocyMvjIqLLBa8CS809ryUsOSoqKjh1Oh3MZkuo6PaO6upqfu5Wq43SSoZGRklzazuZ/jlDbRsZMxiJ2WKltBDajCy6aCY2m51cv3FzxVJW7IBlsJHZdn0HfBT\u002BaNA1gWz0Q3dPL89bAbGt6wSWwesRff32HU3Pmukj6IfouHhk5xcgKjYOpt9zqLx7H\u002BMGo9STYtlsbQE2AEPDo1CGRyArLx/9fT3o1Ldj8GMf0jTZiKKC4xNGoUCE1FaGAH306KunTtmL0aHPdO6DudlfOHPyBP6YTDTkA\u002BPYFxpPliqWulPI3kH3\u002B14k7Epk/REStgX36hoQFKrk4tHxCUv3wr2/HAEhISYmmu7gE161tiApZR8ycw5iT3IK3upf4q9pBnOUZaWl6Oru4vkChE\u002BHJ7wIEMRG78D5s6cREhwEAz2SthfPMTE\u002BBrvNxt/o\u002BNR0ZGvPYUNkHB48bBRqXfXu8LoDvnXKVHov7IvzOH60EE7LIsI3hyJRnQbV9q0YedOKlKgI7NyvwUB/v1AmR4ClSGnbIiORo8lAUFAgtemYNBjgHxCAJ7pH0Gq1ePq4EcGBm9DR8ZrnryngdEsQpZiPCVOTqcmE1WxG4bFi1NfX40hRMRbmF5CRqREq1hLgCSxHbOi65FFApdqNwe5ODE9NQ6U5hIHJHxh6p6d\u002BFY/LE2CWj95ReLgAs8YRtNRUYmFqFKeKi8SI5wkI8H6TPUH9LMZJL9VqNS5eusytG\u002BQJUDIrNWQUwmtC1g5Yiq/Cl1PxH5TqPeH202ffc9eqZZCvWLSS79rVK2491xnAP3rCRRQmN3FcAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-04-08T14:23:54.027Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
