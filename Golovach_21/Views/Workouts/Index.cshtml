@@ -1,0 +1,53 @@
+﻿@model IEnumerable<WorkoutLog.Models.Workout>
+@{
+    ViewData["Title"] = "Тренировки";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<!-- Форма фильтра по дате -->
+<form asp-action="Index" method="get">
+    <div class="form-group">
+        <label for="filterDate">Фильтр по дате:</label>
+        <input type="date" name="filterDate" value="@ViewBag.FilterDate" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Применить фильтр</button>
+</form>
+
+<!-- Недельная статистика -->
+<div style="margin-top:20px;">
+    <h4>Недельная статистика</h4>
+    <p>Период: с @ViewBag.WeekStart до @ViewBag.WeekEnd</p>
+    <p>Общая длительность тренировок (в минутах): <strong>@ViewBag.TotalDuration</strong></p>
+</div>
+
+<p>
+    <a asp-action="Create" class="btn btn-success">Добавить тренировку</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Дата</th>
+            <th>Упражнение</th>
+            <th>Длительность (мин)</th>
+            <th>Примечания</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Date.ToString("yyyy-MM-dd")</td>
+                <td>@item.Exercise</td>
+                <td>@item.Duration</td>
+                <td>@item.Notes</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Редактировать</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Удалить</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

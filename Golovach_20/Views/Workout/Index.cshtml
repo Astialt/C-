@@ -1,0 +1,36 @@
+﻿@model IEnumerable<WorkoutLog.Models.WorkoutViewModel>
+@{
+    ViewBag.Title = "Список тренировок";
+}
+<h2>Список тренировок</h2>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Тип упражнения</th>
+            <th>Время</th>
+            <th>Дата</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var workout in Model)
+        {
+            <tr>
+                <td>@workout.ExerciseType</td>
+                <td>@workout.Time</td>
+                <td>@workout.Date.ToString("yyyy-MM-dd")</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p>
+    @Html.ActionLink("Добавить тренировку", "Create", "Workout", null, new { @class = "btn btn-primary" })
+</p>

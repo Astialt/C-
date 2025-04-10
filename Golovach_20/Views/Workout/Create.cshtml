@@ -1,0 +1,27 @@
+﻿@model WorkoutLog.Models.WorkoutViewModel
+@{
+    ViewBag.Title = "Добавить тренировку";
+}
+<h2>Добавить тренировку</h2>
+
+@using (Html.BeginForm("Create", "Workout", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.ExerciseType)
+        @Html.TextBoxFor(model => model.ExerciseType, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.ExerciseType, "", new { @class = "text-danger" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.Time)
+        @Html.TextBoxFor(model => model.Time, "{0:hh\\:mm}", new { @class = "form-control", type = "time" })
+        @Html.ValidationMessageFor(model => model.Time, "", new { @class = "text-danger" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.Date)
+        @Html.TextBoxFor(model => model.Date, "{0:yyyy-MM-dd}", new { @class = "form-control", type = "date" })
+        @Html.ValidationMessageFor(model => model.Date, "", new { @class = "text-danger" })
+    </div>
+    <button type="submit" class="btn btn-success">Сохранить</button>
+}

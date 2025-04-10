@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Golovach_21.props" />
+</Project>
